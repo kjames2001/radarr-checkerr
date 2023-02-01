@@ -1,0 +1,14 @@
+{
+  "name": "radarr-checkerr",
+  "version": "1.0.0",
+  "description": "Monitors radarr file downloads and remove stalled torrents",
+  "main": "radarr-checkerr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas96",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "2.6.7"
+  }
+}
